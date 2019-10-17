@@ -1,0 +1,12 @@
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/exceptions/RuleConstructionException.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/enums/Type.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/models/RuleGroup.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/helpers/Helper.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/enums/Condition.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/Example.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/interfaces/RuleInterface.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/models/Rule.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/classes/OperatorsValueTypes.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/enums/Operator.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/classes/TypesOperators.java
+/home/alin/git/jquery-querybuilder-query-creator/src/main/java/ro/ibt/querybuildercreator/classes/TypesValueTypes.java
